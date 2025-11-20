@@ -1,0 +1,1 @@
+This project is a simple collection of LLM reasoning prompts and templates that I’ve been experimenting with while learning prompt engineering. Each example shows how different techniques shape the model’s thinking, from few shot patterns to step based reasoning and self reflection prompts.
